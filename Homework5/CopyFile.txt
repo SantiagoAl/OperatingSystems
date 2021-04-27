@@ -1,0 +1,27 @@
+movetodir test
+start HelloWorld
+start Antoher
+start Another
+asdfadfa
+start /bin/ls
+start /bin/ls -l
+adfadfad
+byebye
+history
+byebye
+movetodir test
+whereami
+maik Code.txt
+history
+byebye
+movetodir test
+history
+whereami
+history
+maik ForLoop.txt
+whereami
+history
+dwelt ForLoop.txt
+dwelt fudge
+dwelt /usr/bin
+byebye

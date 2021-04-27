@@ -1,0 +1,298 @@
+movetodir
+movetodir test
+whereami
+byebye
+movetodir
+movetodir test
+byebye
+movetodir /etc
+whereami
+movetodir /test
+byebye
+movetodir /test
+byebye
+movetodir
+movetodir /test
+whereami
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+movetodir sdfsd
+byebye
+dwelt sdfsd
+dwelt HelpfulLinks
+dwelt test
+byebye
+dwelt test
+dwelt /usr/bin
+byebye
+dwelt test
+dwelt /usr/bin
+dwelt HelpfulLinks.txt
+byebye
+dwelt test
+dwelt Homework5.docx
+byebye
+dwelt test
+dwelt History.txt
+dwelt Homework5.docx
+dwelt /usr/bin
+dwelt sdfsdf
+dwelt sdfsdf
+byebye
+dwelt sdfsd
+byebye
+dwelt test
+dwelt HelpfulLinks.txt
+dwelt sdsdfsdf
+dwelt sdfsdf
+byebye
+dwelt dsfsdfsd
+dwelt Homework5.docx
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+byebye
+maik HelloWorld
+maik HelloWorld.txt
+byebye
+maik HelloWorld.txt
+byebye
+maik history.txt
+byebye
+maik HelloWorld.txt
+byebye
+movetodir test
+whereami
+maik WriteFile.txt
+byebye
+whereami
+byebye
+maik HelloWorld.txt
+byebye
+dwelt HelloWorld.txt
+dwelt /usr/bin
+dwelt adfadfad
+byebye
+dwelt /usr/bin/bitesize.d
+byebye
+whereami
+byebye
+maik HelloWorld.txt
+maik NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy SomeText.txt AnotherText.txt
+byebye
+coppy /usr/bin Another.txt
+byebye
+coppy HelloWorld.txt other/SomeText.txt
+byebye
+coppy HelloWorld.txt test/SomeText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy HelloWorld.txt Someother.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy History.txt SomeText.txt
+byebye
+coppy History.txt test/AnotherText.txt
+byebye
+coppy History.txt SomeText.txt
+coppy WhatText.txt NewOne.txt
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp green
+byebye
+whereami
+start HelloWorld.cpp green
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start .HelloWorld.cpp
+start ./HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+byebye
+whereami
+start ls
+start ls -l
+byebye
+whereami
+start ls -l
+start HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp g++ -o
+byebye
+whereami
+start HelloWorld.cpp g++ -o
+byebye
+whereami
+start HelloWorld.cpp
+start ./HelloWorld.cpp
+byebye
+whereami
+start HelloWorld.cpp
+start ./HelloWorld.cpp
+byebye
+whereami
+start HelloWorld
+start /usr/bin/bash
+byebye
+whereami
+start /usr/bin/top
+byebye
+whereami
+start /usr/bin/time
+byebye
+whereami
+start /usr/bin/time
+byebye
+start /usr/bin/time -a
+start /usr/bin/time -lp
+start /usr/bin/ls
+start ls
+start .ls
+byebye
+start /usr/bin/time
+start ls
+start HelloWorld
+byebye
+whereami
+start HelloWorld.cpp
+start HelloWorld
+byebye
+start ls
+start ls -l
+byebye
+whereami
+start HelloWorld
+start ./HelloWorld
+start ls
+byebye
+start /usr/bin/time
+start /usr/bin/top
+byebye
+start ls
+start ls -l
+start HelloWorld
+byebye
+start ls
+start ls -l
+start HelloWorld
+byebye
+start HelloWorld
+byebye
+whereami
+start HelloWorld
+byebye
+start /bin/ls
+start /bin/ls -l
+byebye
+start HelloWorld
+start /bin/ls
+start /bin/ls -l
+byebye
+start /bin/date
+start /bin/bash
+start /bin/bash green
+start /bin/bash -bg green
+start /bin/bash
+byebye
+start HelloWorld.cpp
+byebye
+start ./HelloWorld
+byebye
+start test/Another
+byebye
+start /bin/ls -l
+start /bin/ls -l
+byebye
+start /bin/ls -l
+byebye
+start ls -l
+start ls
+byebye
+start ls
+start ls -l
+byebye
+start HelloWorld
+start test/Another
+byebye
+start /bin/ls
+start /bin/ls -l
+byebye
+start /bin/ls -l
+start /bin/ls
+start ls
+byebye
+whereami
+byebye
+background /bin/ls
+dalek 3504
+byebye
+background /bin/ls
+dalek 3566
+byebye
+background /bin/ls -l
+byebye
+movetodir test
+start HelloWorld
+adfadsfad
+byebye

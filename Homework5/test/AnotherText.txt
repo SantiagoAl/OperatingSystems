@@ -1,0 +1,120 @@
+movetodir
+movetodir test
+whereami
+byebye
+movetodir
+movetodir test
+byebye
+movetodir /etc
+whereami
+movetodir /test
+byebye
+movetodir /test
+byebye
+movetodir
+movetodir /test
+whereami
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+movetodir sdfsd
+byebye
+dwelt sdfsd
+dwelt HelpfulLinks
+dwelt test
+byebye
+dwelt test
+dwelt /usr/bin
+byebye
+dwelt test
+dwelt /usr/bin
+dwelt HelpfulLinks.txt
+byebye
+dwelt test
+dwelt Homework5.docx
+byebye
+dwelt test
+dwelt History.txt
+dwelt Homework5.docx
+dwelt /usr/bin
+dwelt sdfsdf
+dwelt sdfsdf
+byebye
+dwelt sdfsd
+byebye
+dwelt test
+dwelt HelpfulLinks.txt
+dwelt sdsdfsdf
+dwelt sdfsdf
+byebye
+dwelt dsfsdfsd
+dwelt Homework5.docx
+byebye
+movetodir test
+whereami
+movetodir /usr/bin
+whereami
+byebye
+maik HelloWorld
+maik HelloWorld.txt
+byebye
+maik HelloWorld.txt
+byebye
+maik history.txt
+byebye
+maik HelloWorld.txt
+byebye
+movetodir test
+whereami
+maik WriteFile.txt
+byebye
+whereami
+byebye
+maik HelloWorld.txt
+byebye
+dwelt HelloWorld.txt
+dwelt /usr/bin
+dwelt adfadfad
+byebye
+dwelt /usr/bin/bitesize.d
+byebye
+whereami
+byebye
+maik HelloWorld.txt
+maik NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt NewText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy SomeText.txt AnotherText.txt
+byebye
+coppy /usr/bin Another.txt
+byebye
+coppy HelloWorld.txt other/SomeText.txt
+byebye
+coppy HelloWorld.txt test/SomeText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy HelloWorld.txt Someother.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy HelloWorld.txt SomeText.txt
+byebye
+coppy History.txt SomeText.txt
+byebye
